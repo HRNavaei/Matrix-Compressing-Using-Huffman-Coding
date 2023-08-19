@@ -1,0 +1,6 @@
+Ba salam
+dar pooshe proje yek file matris nemoone ba nam "input image (original).txt" dar pooshe "input-output" vojood darad.
+ba ejraye barname va entekhad gozine compress in matris be voroodi barname dade mishavad va amaliat feshorde sazi roye aan
+anjam mishava. dar pooshe "Compressed Image" dar kenar an khoroji ha zakhire mishavand. matrix khoroji niz dar kenar file voroodi gharar
+darad
+Hamidreza Navaei - 9826563
