@@ -1,1 +1,1 @@
-# Image-Compressing-Using-Huffman-Coding
+# Matrix-Compressing-Using-Huffman-Coding
