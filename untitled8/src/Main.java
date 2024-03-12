@@ -1,6 +1,6 @@
 /*
 - This program compresses grayscale images using Huffman coding algorithm.
-- Images are considered as a matrix.
+- Images are considered as matrices.
 - Each pixel in image is an entry of matrix and is a number in range [0,255]
   which 0 corresponds to black and 255 corresponds to white.
 - Input/Output is by files in input-output folder in project folder.
